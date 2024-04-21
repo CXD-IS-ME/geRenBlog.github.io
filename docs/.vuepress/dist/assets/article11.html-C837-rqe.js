@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./app-DMZOAs2V.js";const c={};function r(o,s){return e(),a("div")}const n=t(c,[["render",r],["__file","article11.html.vue"]]),i=JSON.parse('{"path":"/posts/article11.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"posts/article11.md","excerpt":""}');export{n as comp,i as data};

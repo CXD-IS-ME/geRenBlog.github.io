@@ -1,0 +1,3 @@
+import comp from "C:/Users/86189/Downloads/vuepress-starter/docs/.vuepress/.temp/pages/posts/route.html.vue"
+const data = JSON.parse("{\"path\":\"/posts/route.html\",\"title\":\"路由\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"路由\",\"date\":\"2024-04-02T00:00:00.000Z\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"posts/route.md\",\"excerpt\":\"<p>定义路由</p>\\n<div class=\\\"language-php\\\" data-ext=\\\"php\\\" data-title=\\\"php\\\"><pre class=\\\"language-php\\\"><code><span class=\\\"token keyword\\\">use</span> <span class=\\\"token package\\\">think<span class=\\\"token punctuation\\\">\\\\</span>facade<span class=\\\"token punctuation\\\">\\\\</span>Route</span><span class=\\\"token punctuation\\\">;</span>\\n</code></pre></div>\"}")
+export { comp, data }

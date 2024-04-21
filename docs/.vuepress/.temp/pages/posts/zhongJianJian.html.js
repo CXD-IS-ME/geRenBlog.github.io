@@ -1,0 +1,3 @@
+import comp from "C:/Users/86189/Downloads/vuepress-starter/docs/.vuepress/.temp/pages/posts/zhongJianJian.html.vue"
+const data = JSON.parse("{\"path\":\"/posts/zhongJianJian.html\",\"title\":\"中间件\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"中间件\",\"date\":\"2024-04-01T00:00:00.000Z\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"posts/zhongJianJian.md\",\"excerpt\":\"<p>中间件</p>\\n<div class=\\\"language-php\\\" data-ext=\\\"php\\\" data-title=\\\"php\\\"><pre class=\\\"language-php\\\"><code>php think make<span class=\\\"token punctuation\\\">:</span>middleware Check\\n</code></pre></div>\"}")
+export { comp, data }
